@@ -2,6 +2,11 @@
 #
 .DS_Store
 
+# PNPM
+*.pnpm-store
+.pnpm-store
+/.pnpm-store
+
 # Xcode
 #
 build/
